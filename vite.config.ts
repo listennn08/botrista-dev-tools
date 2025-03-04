@@ -9,6 +9,7 @@ export default defineConfig({
       entry: './src/main.tsx',
       name: 'BotristaDevTools',
       formats: ['es'],
+      fileName: 'index',
     },
   },
 })
