@@ -8,7 +8,7 @@ export default defineConfig({
     lib: {
       entry: './src/main.tsx',
       name: 'BotristaDevTools',
-      formats: ['es'],
+      formats: ['iife'],
       fileName: 'index',
     },
   },
